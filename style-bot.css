@@ -58,3 +58,10 @@
   margin: 0;
   display: inline-block;
 }
+
+.vfcr-header--title.jyiuei4::before {
+    content: "Your Custom Text Here"; /* Change this to whatever you want */
+    color: black; /* Adjust text color */
+    font-size: 16px; /* Adjust size */
+    font-weight: bold;
+}
