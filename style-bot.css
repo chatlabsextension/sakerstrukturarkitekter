@@ -59,9 +59,16 @@
   display: inline-block;
 }
 
-.vfcr-header--title.jyiuei4::before {
-    content: "SSA"; /* Change this to whatever you want */
-    color: black; /* Adjust text color */
-    font-size: 16px; /* Adjust size */
-    font-weight: bold;
+._1q5q0m14::after {
+  content: "Säker Struktur Arkitekter"; 
+  color: rgb(255, 255, 255); 
+  position: absolute;
+  left: 0;
+}
+
+._1q5q0m14 {
+  display: inline-block;  
+  overflow: visible; 
+  color: transparent; 
+  position: relative;
 }
