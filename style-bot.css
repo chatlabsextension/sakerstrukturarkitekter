@@ -60,7 +60,7 @@
 }
 
 .vfcr-header--title.jyiuei4::before {
-    content: "Your Custom Text Here"; /* Change this to whatever you want */
+    content: "SSA"; /* Change this to whatever you want */
     color: black; /* Adjust text color */
     font-size: 16px; /* Adjust size */
     font-weight: bold;
